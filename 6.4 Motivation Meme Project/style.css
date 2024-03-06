@@ -1,0 +1,26 @@
+*{
+ padding: 0%;
+}
+img{
+    margin-top: 5%;
+    height: 300px;
+    border: yellow solid;
+}
+.main{
+    background: #000;
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5rem;
+    
+}
+#title{
+    text-transform: uppercase;
+    color: aqua;
+    font-size: 3rem;
+    margin-bottom: 0,5%;
+}
+#desc{
+color: blueviolet;
+font-size: 1.5rem;
+margin-top: 0.5%;
+}
